@@ -42,6 +42,6 @@ colors_by_shop = [''#05f03c', '#1375ec', '#ffee00', '#fc0505']
 ## **Requerimientos**
 - pip install pandas matplotlib folium plotly
 
-# ** Objetivo del proyecto**
+# **Objetivo del proyecto**
 
 Desarrollar un análisis comparativo y visual de las cuatro tiendas de Alura Store Latam como parte del Challenge Alura Latam, incorporando gráficos avanzados para enriquecer la interpretación de datos.
