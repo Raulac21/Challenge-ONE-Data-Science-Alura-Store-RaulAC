@@ -1,10 +1,10 @@
-# 🛒 Alura Store Latam – Data Analysis & Visualizations
+#  Alura Store Latam – Data Analysis & Visualizations
 
 Este repositorio contiene un análisis exploratorio y visual de datos correspondiente a cuatro tiendas de **Alura Store Latam**, empleando herramientas como **Python**, **Pandas**, **Matplotlib**, **Folium** y **Plotly**.
 
 ---
 
-## 📋 1. Contenido del análisis
+##  1. Contenido del análisis
 
 ### 🗂 Carga y preparación de datos
 - Lectura de archivos CSV directamente desde GitHub.  
@@ -12,7 +12,7 @@ Este repositorio contiene un análisis exploratorio y visual de datos correspond
 - Cálculo de ingresos totales por tienda.  
 - Obtención de datos globales como ventas, calificaciones y costos de envío.
 
-### 📈 Datos por tienda
+###  Datos por tienda
 - Ingreso total  
 - Categoría más vendida  
 - Promedio de calificación  
@@ -23,7 +23,7 @@ Toda esta información se consolida en la **`TABLA FINAL DE DATOS GENERALES DE T
 
 ---
 
-## 📊 2. Visualizaciones
+##  2. Visualizaciones
 
 ###  Matplotlib
 - Gráfico de comparativo de ingresos.  
