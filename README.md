@@ -6,7 +6,7 @@ Este repositorio contiene un análisis exploratorio y visual de datos correspond
 
 ##  1. Contenido del análisis
 
-### 🗂 Carga y preparación de datos
+###  Carga y preparación de datos
 - Lectura de archivos CSV directamente desde GitHub.  
 - Normalización y limpieza de nombres de columnas.  
 - Cálculo de ingresos totales por tienda.  
