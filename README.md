@@ -1,4 +1,4 @@
-#  Alura Store Latam – Data Analysis & Visualizations
+#  Alura Store --- Analisis De Datos
 
 Este repositorio contiene un análisis exploratorio y visual de datos correspondiente a cuatro tiendas de **Alura Store Latam**, empleando herramientas como **Pandas**, **Matplotlib**.
 
