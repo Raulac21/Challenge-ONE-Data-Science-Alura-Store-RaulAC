@@ -2,6 +2,15 @@
 
 Este repositorio contiene un análisis exploratorio y visual de datos correspondiente a cuatro tiendas de **Alura Store Latam**, empleando herramientas como **Python**, **Pandas**, **Matplotlib**, **Folium** y **Plotly**.
 
+## Cómo descargar o clonar este proyecto
+
+1. Accede al repositorio en GitHub.  
+2. Haz clic en **Code → Download ZIP**.  
+3. Extrae el archivo en tu computadora.  
+4. Abre el archivo `.ipynb` en **Google Colab**.
+
+
+
 ---
 
 ##  1. Contenido del análisis
