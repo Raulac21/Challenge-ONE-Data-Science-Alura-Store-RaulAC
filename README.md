@@ -4,15 +4,6 @@ Este repositorio contiene un análisis exploratorio y visual de datos correspond
 
 ---
 
-## 📦 Cómo descargar o clonar este proyecto
-
-1. Accede al repositorio en GitHub.  
-2. Haz clic en **Code → Download ZIP**.  
-3. Extrae el archivo en tu computadora.  
-4. Abre el archivo `.ipynb` en **Google Colab**.
-
----
-
 ## 📋 1. Contenido del análisis
 
 ### 🗂 Carga y preparación de datos
